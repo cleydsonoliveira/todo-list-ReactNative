@@ -2,7 +2,7 @@
 Esta aplicação foi desenvolvida através de uma série de vídeos do canal [Made With Matt](https://www.youtube.com/c/MadeWithMatt/videos)
 
 ## INSTALAÇÃO
-basta realizar o clone em um diretório em seu computar e rodar o comando: 
+basta realizar o clone em um diretório em seu computar e rodar os comandos: 
 ```sh
 npm i
 npx expo start
